@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SDWebImage/libavif-Xcode.git",
       "state" : {
-        "revision" : "95551e4f2a0b256c9e746732d82138b904edefd3",
-        "version" : "0.10.1"
+        "revision" : "a158cb024166f8c599f88f8c91458c59922bcb0f",
+        "version" : "0.11.1"
       }
     },
     {
